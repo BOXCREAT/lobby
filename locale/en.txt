@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 15
+
+## Media
+
+### Title
+panorama_499AFE01_44C1_9791_41CA_3E3BBCE116D8.label = 360 lobby02
